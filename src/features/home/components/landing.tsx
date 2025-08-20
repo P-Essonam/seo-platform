@@ -83,7 +83,7 @@ export default function Landing({ totalCount }: LandingProps) {
         </h1>
         <p className="mt-5 text-lg text-muted-foreground max-w-2xl mx-auto">
           Full-stack SEO toolkit with AI-powered insights, geo-targeting, and
-          LLM optimization. Start with keyword generation — scale to complete
+          LLM optimization. Start with keyword generation and scale to complete
           SEO mastery.
         </p>
 

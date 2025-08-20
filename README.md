@@ -1,6 +1,6 @@
 # The Complete Open-Source SEO Platform
 
-Full-stack SEO toolkit with AI-powered insights, geo-targeting, and LLM optimization. Start with keyword generation — scale to complete SEO mastery.
+Full-stack SEO toolkit with AI-powered insights, geo-targeting, and LLM optimization. Start with keyword generation and scale to complete SEO mastery.
 
 ## Features
 
