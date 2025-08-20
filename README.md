@@ -1,6 +1,6 @@
-# SEO Keywords Generator
+# The Complete Open-Source SEO Platform
 
-Open-source SEO platform for AI-powered keyword generation and analysis.
+Full-stack SEO toolkit with AI-powered insights, geo-targeting, and LLM optimization. Start with keyword generation — scale to complete SEO mastery.
 
 ## Features
 
@@ -18,7 +18,7 @@ Open-source SEO platform for AI-powered keyword generation and analysis.
 ### Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/P-Essonam/seo-platform.git
 cd seo
 npm install
 ```
