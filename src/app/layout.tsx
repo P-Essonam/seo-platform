@@ -5,6 +5,8 @@ import { ThemeProvider } from "@/providers/theme-provider";
 import { ConvexClientProvider } from "@/providers/convex-client-provider";
 import { shadcn } from "@clerk/themes";
 import { ClerkProvider } from "@clerk/nextjs";
+import { Analytics } from "@vercel/analytics/next"
+
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -47,6 +49,7 @@ export default function RootLayout({
             </ThemeProvider>
           </ClerkProvider>
         </ConvexClientProvider>
+        <Analytics />
       </body>
     </html>
   );
